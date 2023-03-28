@@ -2,7 +2,7 @@
 - 💡 Software Engineer @wyden
 - 💻 Front-end @gamaacademy
 - 💻 Design UX/UI @cubosacademy
-- 📫 lucianasena.ifpa@gmail.com
+- 📫 lucianasena.on@outlook.com
 
 <!---
 englucianasena/englucianasena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

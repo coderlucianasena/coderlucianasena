@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lucianasena.on
 - 💡 Software Engineer @wyden
-- 💻 Front end @gamaacademy
+- 💻 Front-end @gamaacademy
 - 💻 Design UX/UI @cubosacademy
-- 🖱️ I’m currently learning React @catapulta
 - 📫 lucianasena.ifpa@gmail.com
 
 <!---

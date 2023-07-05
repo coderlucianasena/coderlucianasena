@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucianasena.on
+- 👋 Hi, I’m Luciana Sena
 - 💡 Software Engineer @wyden
 - 💻 Front-end @gamaacademy
 - 💻 Design UX/UI @cubosacademy

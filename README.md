@@ -1,5 +1,5 @@
-<img align="right" height="80em" src="https://raw.githubusercontent.com/gist/englucianasena/c21a6e2fdbaf25a2d9b1a73c52c0671c/raw/5b32f51abde2db6f46789b733441090cbda53a4a/githubcard.svg"/>
-<h1 align="left">Hey, Sou Luciana Sena</h1>
+<img align="right" height="85em" src="https://raw.githubusercontent.com/gist/englucianasena/c21a6e2fdbaf25a2d9b1a73c52c0671c/raw/5b32f51abde2db6f46789b733441090cbda53a4a/githubcard.svg"/>
+<h1 align="left">Hey, <br> Sou Luciana Sena</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=englucianasena&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Estudante de Desenvolvimento Web e Mobile

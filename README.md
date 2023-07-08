@@ -38,15 +38,15 @@
 
 ## 👾 &nbsp;Contact
 
-<div algin="center">
-
+ <p align="center" style="background:yellow">
 <a href="https://linkedin.com/in/englucianasena" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-lucianasena-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/sena.on" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-sena.on-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-
+ </p>
+ 
 <!-- <p align="left" style="background:yellow">
 <a href="https://codepen.io/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
@@ -56,9 +56,8 @@
 </a> -->
 <!-- <a href="https://youtube.com/maykbrito" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a> -->
-</p>
-</div>
+</a></p>  -->
+
 
 <!-- ## 🎮 Fun
 

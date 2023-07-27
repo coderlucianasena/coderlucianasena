@@ -5,7 +5,6 @@
 - 🔥 Estudante de Desenvolvimento Web e Mobile
 - 🎓 Discente de Engenharia de Software @Wyden
 - 💻 Front-end @gamaacademy
-- 🎨 Design UX/UI @cubosacademy
 - 👨‍💻 [Portfolio](https://portfolio-sena.vercel.app/#) 
 
 

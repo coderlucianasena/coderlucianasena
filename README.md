@@ -3,7 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=englucianasena&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Estudante de Desenvolvimento Web e Mobile
-- 🎓 Discente de Engenharia de Software @Wyden
 - 💻 Front-end @gamaacademy
 - 👨‍💻 [Portfolio](https://portfolio-sena.vercel.app/#) 
 

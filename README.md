@@ -1,6 +1,6 @@
-<img align="right" height="85em" width="85" src="https://raw.githubusercontent.com/gist/englucianasena/c21a6e2fdbaf25a2d9b1a73c52c0671c/raw/5b32f51abde2db6f46789b733441090cbda53a4a/githubcard.svg"/>
+<img align="right" height="85em" width="85" src="https://raw.githubusercontent.com/gist/coderlucianasena/c21a6e2fdbaf25a2d9b1a73c52c0671c/raw/5b32f51abde2db6f46789b733441090cbda53a4a/githubcard.svg"/>
 <h1 align="left">Hey, <br> Sou Luciana Sena</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=englucianasena&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderlucianasena&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Estudante de Desenvolvimento Web e Mobile
 - 💻 Front-end @gamaacademy
@@ -28,8 +28,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
-<a href="https://github.com/englucianasena/convoychat">
-  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=englucianasena&layout=compact&theme=vision-friendly-dark" alt="englucianasena's most languages"/>
+<a href="https://github.com/coderlucianasena/convoychat">
+  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderlucianasena&layout=compact&theme=vision-friendly-dark" alt="coderlucianasena's most languages"/>
 </a>
 </div>
 
@@ -38,7 +38,7 @@
 ## 👾 &nbsp;Contact
 
  <p align="center" style="background:yellow">
-<a href="https://linkedin.com/in/englucianasena" target="_blank">
+<a href="https://linkedin.com/in/coderlucianasena" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-lucianasena-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/sena.on" target="_blank">

@@ -2,7 +2,7 @@
 
 ## Olá, Mundo! Sou Luciana Sena 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderlucianasena&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderlucianasena&color=blue" alt="Profile views" /> </p>
 
 - 🚀 Estudante de Desenvolvimento Web e Mobile
 - 💻 Front-end @gamaacademy

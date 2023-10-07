@@ -33,7 +33,7 @@
 <div align="center">
 <a href="https://github.com/coderlucianasena">
   <!-- Estatísticas de linguagens -->
-  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderlucianasena&layout=compact&theme=vision-friendly-dark" alt="Linguagens mais usadas por Luciana Sena"/>
+  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderlucianasena&layout=compact&theme=vision-friendly-dark&hide_title=true" alt="Linguagens mais usadas por Luciana Sena"/>
 </a>
 </div>
 

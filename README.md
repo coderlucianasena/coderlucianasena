@@ -45,12 +45,15 @@
   <a href="https://linkedin.com/in/coderlucianasena" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn de Luciana Sena"/>
   </a>
-  <a href="https://instagram.com/sena.on" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="Instagram de Luciana Sena"/>
-  </a>
+
   <a href="mailto:coder.lucianasena@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="Email de Luciana Sena"/>
   </a>
+  
+  <a href="https://instagram.com/sena.on" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="Instagram de Luciana Sena"/>
+  </a>
+  
 </p>
 
 <!-- ## 🎮 Fun

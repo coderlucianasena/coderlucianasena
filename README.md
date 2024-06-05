@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderlucianasena&color=blue" alt="Profile views" /> </p>
 
-- 🚀 Estudante de Desenvolvimento Web e Mobile
+- 🚀 Desenvolvedora Web
 - 💻 Front-end @gamaacademy
 - 👨‍💻 [Portfolio](https://portfolio-sena.vercel.app/#) 
 

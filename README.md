@@ -6,7 +6,7 @@
 
 - 🚀 Desenvolvedora Web
 - 💻 Front-end @gamaacademy
-- 👨‍💻 [Portfolio](https://portfolio-sena.vercel.app/#) 
+<!-- - 👨‍💻 [Portfolio](https://portfolio-sena.vercel.app/#) -->
 
 <br><br>
 

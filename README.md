@@ -1,4 +1,4 @@
-<img align="right" height="70em" width="60" src="https://raw.githubusercontent.com/gist/coderlucianasena/c21a6e2fdbaf25a2d9b1a73c52c0671c/raw/5b32f51abde2db6f46789b733441090cbda53a4a/githubcard.svg"/>
+<!-- <img align="right" height="70em" width="60" src="https://raw.githubusercontent.com/gist/coderlucianasena/c21a6e2fdbaf25a2d9b1a73c52c0671c/raw/5b32f51abde2db6f46789b733441090cbda53a4a/githubcard.svg"/> -->
 
 ## Olá, Mundo! Sou Luciana Sena 👋
 

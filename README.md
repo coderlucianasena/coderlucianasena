@@ -2,18 +2,21 @@
 
 ## Olá, Mundo! Sou Luciana Sena 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderlucianasena&color=blue" alt="Profile views" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=coderlucianasena&color=blue" alt="Profile views" /> 
+</p>
 
-- 🚀 Desenvolvedora Web
-- 💻 Front-end 
-<!-- - 👨‍💻 [Portfolio](https://portfolio-sena.vercel.app/#) -->
+<p align="center">
+  🚀 Desenvolvedora Web | 💻 Front-end  
+  <br>
+  Estudando para Backend, AI & Data, DevOps e Cloud ☁️
+</p>
 
-<br><br>
+---
 
 ## 🛠 &nbsp;Tecnologias que domino
 <div align="center"> 
 
-<!-- Lista de tecnologias com ícones -->
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
@@ -26,38 +29,40 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 </div>
 
-<br><br>
+---
 
 ## ⚙️ &nbsp;Estatísticas do GitHub
 
 <div align="center">
 <a href="https://github.com/coderlucianasena">
-  <!-- Estatísticas de linguagens -->
-  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderlucianasena&layout=compact&theme=vision-friendly-dark&hide_title=true&hide=python,cython,c,xml,xslt,jupyter%20notebook,powershell,shell,batchfile,nushell&count_private=true" alt="Linguagens mais usadas por Luciana Sena">
+  <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderlucianasena&layout=compact&theme=vision-friendly-dark&hide_title=true&hide=python,cython,c,xml,xslt,jupyter%20notebook,powershell,shell,batchfile,nushell&count_private=true" alt="Linguagens mais usadas por Luciana Sena">
 </a>
-
-
-
-
 </div>
 
-<br><br>
+---
+
+## 🎮 &nbsp;Jogue Pac-Man comigo!
+
+<p align="center">
+  <a href="https://ciprianciurea.github.io/pacman/">
+    <img src="https://img.shields.io/badge/Jogar-PacMan-yellow?style=for-the-badge&logo=ghost&logoColor=white" alt="Pac-Man Game"/>
+  </a>
+</p>
+
+---
 
 ## 👾 &nbsp;Contato
 
 <p align="center">
   <a href="https://linkedin.com/in/coderlucianasena" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn de Luciana Sena"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:contato@lucianasena.tech" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="Email de Luciana Sena"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  
   <a href="https://www.instagram.com/coder.sena/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="Instagram de Luciana Sena"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  
 </p>
 
 <!-- ## 🎮 Fun

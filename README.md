@@ -11,7 +11,7 @@
    <br>
   💻 Desenvolvedora Front-end
   <br>
-  🚀 Estudando Backend ⚙️ | AI 🤖 | Data 📊 | DevOps 🔧 | Cloud ☁️
+  🚀 Estudando Backend ⚙️  IA 🤖  Data 📊  DevOps 🔧  Cloud ☁️
 </p>
 
 ---

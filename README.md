@@ -9,7 +9,7 @@
 <p align="center">
   🚀 Desenvolvedora Web | 💻 Front-end  
   <br>
-  Estudando para Backend, AI & Data, DevOps e Cloud ☁️
+  Estudando Backend, AI & Data, DevOps e Cloud ☁️
 </p>
 
 ---
@@ -34,19 +34,22 @@
 ## ⚙️ &nbsp;Estatísticas do GitHub
 
 <div align="center">
-<a href="https://github.com/coderlucianasena">
-  <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderlucianasena&layout=compact&theme=vision-friendly-dark&hide_title=true&hide=python,cython,c,xml,xslt,jupyter%20notebook,powershell,shell,batchfile,nushell&count_private=true" alt="Linguagens mais usadas por Luciana Sena">
-</a>
+  <a href="https://github.com/coderlucianasena">
+    <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderlucianasena&layout=compact&theme=vision-friendly-dark&hide_title=true&hide=python,cython,c,xml,xslt,jupyter%20notebook,powershell,shell,batchfile,nushell&count_private=true" alt="Linguagens mais usadas por Luciana Sena">
+  </a>
 </div>
 
 ---
 
-## 🎮 &nbsp;Jogue Pac-Man comigo!
+## 🎮 &nbsp;Fun (Pac-Man no meu gráfico de contribuições)
 
+<!-- igual ao snake: imagem SVG servida da branch `output` -->
 <p align="center">
-  <a href="https://ciprianciurea.github.io/pacman/">
-    <img src="https://img.shields.io/badge/Jogar-PacMan-yellow?style=for-the-badge&logo=ghost&logoColor=white" alt="Pac-Man Game"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coderlucianasena/coderlucianasena/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coderlucianasena/coderlucianasena/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man no meu gráfico de contribuições" src="https://raw.githubusercontent.com/coderlucianasena/coderlucianasena/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 ---
@@ -54,16 +57,17 @@
 ## 👾 &nbsp;Contato
 
 <p align="center">
-  <a href="https://linkedin.com/in/coderlucianasena" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/coderlucianasena">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:contato@lucianasena.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:contato@lucianasena.tech">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.instagram.com/coder.sena/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/coder.sena/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+
 
 <!-- ## 🎮 Fun
 

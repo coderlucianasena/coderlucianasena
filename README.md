@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  🚀 Desenvolvedora Web | 💻 Front-end  
+  🚀 Disc. Engenharia de Software 💻 
+   <br>
+  🚀 Desenvolvedora Front-end 💻 
   <br>
   Estudando Backend, AI & Data, DevOps e Cloud ☁️
 </p>

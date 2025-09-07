@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  💻  Disc. Engenharia de Software 
+  👩‍💻 Engenharia de Software 
    <br>
-  🚀 Desenvolvedora Front-end
+  💻 Desenvolvedora Front-end
   <br>
-  Estudando Backend, AI & Data, DevOps e Cloud ☁️
+  🚀 Estudando Backend ⚙️ | AI 🤖 | Data 📊 | DevOps 🔧 | Cloud ☁️
 </p>
 
 ---

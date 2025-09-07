@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  👩‍💻 Engenharia de Software 
+  👩‍💻 Disc. Engenharia de Software 
    <br>
   💻 Desenvolvedora Front-end
   <br>

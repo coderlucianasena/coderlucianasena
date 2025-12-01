@@ -33,7 +33,7 @@
 
 ---
 
-## ⚙️ &nbsp;Estatísticas do GitHub
+<!--## ⚙️ &nbsp;Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/coderlucianasena">
@@ -43,7 +43,7 @@
 
 ---
 
-## 🎮 &nbsp;Fun
+## 🎮 &nbsp;Fun-->
 
 <!-- igual ao snake: imagem SVG servida da branch `output` -->
 <p align="center">

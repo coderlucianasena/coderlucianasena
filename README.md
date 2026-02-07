@@ -8,9 +8,9 @@
 
 <p align="center">
   👩‍💻 Disc. Engenharia de Software 
-   <br>
-<!--   💻 Desenvolvedora Front-end -->
-  <br>
+   <!--  <br>
+  💻 Desenvolvedora Front-end 
+  <br> -->
   🚀 Estudando ⚙️ IA 🤖 Data 📊 Cloud ☁️
 </p>
 
